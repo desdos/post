@@ -25,7 +25,7 @@ if(x=="1"){xxx="more-to-life-insurance-benefits.html.html"}
 if(x=="2"){xxx="tips-when-choosing-right-health.html"}
 if(x=="3"){xxx="role-of-insurance-in-economic-crisis.html"}
 if(x=="4"){xxx="7-types-of-insurance-you-need-to.html"}
-if(x=="5"){xxx="4-tips-for-negotiating-insurance.html"}a_to_ve[i].href="https://safelink-3.blogspot.com/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="4-tips-for-negotiating-insurance.html"}a_to_ve[i].href="https://lompatindulu.blogspot.com/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
