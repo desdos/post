@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="more-to-life-insurance-benefits.html.html"}
+if(x=="1"){xxx="more-to-life-insurance-benefits.html"}
 if(x=="2"){xxx="tips-when-choosing-right-health.html"}
 if(x=="3"){xxx="role-of-insurance-in-economic-crisis.html"}
 if(x=="4"){xxx="7-types-of-insurance-you-need-to.html"}
